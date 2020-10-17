@@ -25,3 +25,4 @@ Preview :
 
 ![Preview](https://i.imgur.com/vIK9LRr.png)
 
+Para remover o "A social engineering tool by Rafa" mude a variavel branding para 0
