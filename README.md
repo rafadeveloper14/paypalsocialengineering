@@ -26,5 +26,11 @@ Preview :
 ![Preview](https://i.imgur.com/vIK9LRr.png)
 
 
+Para ver as contas scammadas basta acessar da seguinte forma
+
+```
+example.com/index.php?accounts=scammed
+```
+
 Se aprecia o meu trabalho pondere em doar-me
 
