@@ -24,3 +24,7 @@ Preview :
 
 
 ![Preview](https://i.imgur.com/vIK9LRr.png)
+
+
+Se aprecia o meu trabalho pondere em doar-me
+
