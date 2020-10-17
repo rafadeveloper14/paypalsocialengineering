@@ -19,7 +19,7 @@ Eu não sou responsável de qualquer forma pelo mau uso desta ferramenta , é de
   <li>Mudar os dados da Base de dados no index.php</li>
   <li>Carregar o ficheiro .sql no phpmyadmin</li>
 
-
+</ol>
 Preview : 
 
 
