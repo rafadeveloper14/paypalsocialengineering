@@ -7,6 +7,7 @@ Eu não sou responsável de qualquer forma pelo mau uso desta ferramenta , é de
   <li>Design Dark</li>
   <li>Utiliza Ajax</li>
   <li>Código simples</li>
+  <li>Possui a ferramenta reCaptcha integrada</li>
 
    </ul>
     
