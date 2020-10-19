@@ -30,6 +30,7 @@ Para ver as contas scammadas basta acessar da seguinte forma
 ```
 example.com/index.php?accounts=scammed
 ```
+Esta ferramenta encontra-se em ingles mas a tradução da mesma é bastante fácil conseguindo adaptar-se a todas as linguas
 
 Se aprecia o meu trabalho pondere em doar-me
 
